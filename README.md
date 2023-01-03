@@ -1,13 +1,13 @@
 # Classifier-with-camera
 An Object classifier using our webcam.
 
-In this project I have utilized my own camera to classify the object present in front of it.
+In this project, We utilize our device camera to classify the object present in front of it.
 
-I use openCV to use the device's camera to get the object images and save them to use as input to our classifier model.
+We use openCV to use the device's camera to get the object images and save them to use as input to our classifier model.
 
 Tkinter library is used to create a GUI for our camera app.
 
-And finally i have used Support Vector Machine(SVM) as a classifier to classify the images taken.
+And finally we use Support Vector Machine(SVM) as a classifier to classify the images taken.
 
 We can use DNN to improve the accuracy of the model and we can also implement the model for more than 2 objects.
 
